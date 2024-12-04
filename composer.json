@@ -1,13 +1,13 @@
 
 {
-    "name": "vendor/laravel-anti-spam",
+    "name": "kvnc/spam-shield",
     "description": "Laravel package to prevent spam submissions",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "you@example.com"
+            "name": "Kıvanç İnci",
+            "email": "kivanc.inci83@gmail.com"
         }
     ],
     "autoload": {
