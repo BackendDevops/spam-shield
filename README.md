@@ -6,7 +6,7 @@ A Laravel package to prevent spam submissions using Google reCAPTCHA, honeypots,
 ## Installation
 
 ```bash
-composer require vendor/laravel-anti-spam
+composer require kvnc/spam-shield
 ```
 
 ## Configuration
