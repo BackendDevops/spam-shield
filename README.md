@@ -121,10 +121,10 @@ For example, add more questions to the English or Turkish language sections or a
 ],
 ```
 ## Security Features
-- **Google reCAPTCHA: Prevents bots from submitting forms by requiring user interaction.
-- **Form Submission Timeout: Rejects submissions that occur too quickly after the form is loaded, which is a common behavior for bots.
-- **Honeypot Field: Bots will automatically fill out the hidden field, allowing you to reject them based on the presence of data in this field.
-- **Random Questions: Randomly generated human-answerable questions that make it hard for bots to submit forms successfully.
+- **Google reCAPTCHA:** Prevents bots from submitting forms by requiring user interaction.
+- **Form Submission Timeout:** Rejects submissions that occur too quickly after the form is loaded, which is a common behavior for bots.
+- **Honeypot Field:** Bots will automatically fill out the hidden field, allowing you to reject them based on the presence of data in this field.
+- **Random Questions:** Randomly generated human-answerable questions that make it hard for bots to submit forms successfully.
 
 ## Contributing
 We welcome contributions! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
